@@ -3,5 +3,4 @@
 </p>
 
 # Projeto Reajuste Salarial
-
- 
+Ainda precisa ser editado o README
